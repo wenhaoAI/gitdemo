@@ -1,0 +1,5 @@
+D:\new8-5\Dodoo - DevExpressR\Dodoo - DevExpressR\Dodoo - DevExpressR\UNICLog\UNICLog\UNICLog\bin\x86\Debug\UNICLog.dll
+D:\new8-5\Dodoo - DevExpressR\Dodoo - DevExpressR\Dodoo - DevExpressR\UNICLog\UNICLog\UNICLog\bin\x86\Debug\UNICLog.pdb
+D:\new8-5\Dodoo - DevExpressR\Dodoo - DevExpressR\Dodoo - DevExpressR\UNICLog\UNICLog\UNICLog\obj\x86\Debug\UNICLog.csprojResolveAssemblyReference.cache
+D:\new8-5\Dodoo - DevExpressR\Dodoo - DevExpressR\Dodoo - DevExpressR\UNICLog\UNICLog\UNICLog\obj\x86\Debug\UNICLog.dll
+D:\new8-5\Dodoo - DevExpressR\Dodoo - DevExpressR\Dodoo - DevExpressR\UNICLog\UNICLog\UNICLog\obj\x86\Debug\UNICLog.pdb

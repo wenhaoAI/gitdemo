@@ -1,0 +1,9 @@
+e:\Prodemo\Ledhm\LedClient\bin\Debug\LedClient.exe.config
+e:\Prodemo\Ledhm\LedClient\bin\Debug\LedClient.exe
+e:\Prodemo\Ledhm\LedClient\bin\Debug\LedClient.pdb
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.csprojResolveAssemblyReference.cache
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.Form1.resources
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.Properties.Resources.resources
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.csproj.GenerateResource.Cache
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.exe
+e:\Prodemo\Ledhm\LedClient\obj\Debug\LedClient.pdb

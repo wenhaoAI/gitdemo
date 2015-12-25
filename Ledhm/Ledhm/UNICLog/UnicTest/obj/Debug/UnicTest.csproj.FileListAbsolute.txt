@@ -1,0 +1,10 @@
+D:\sof\正式\UNICLog\UNICLog\UnicTest\bin\Debug\UnicTest.exe.config
+D:\sof\正式\UNICLog\UNICLog\UnicTest\obj\Debug\UnicTest.csprojResolveAssemblyReference.cache
+D:\sof\正式\UNICLog\UNICLog\UnicTest\obj\Debug\UnicTest.Properties.Resources.resources
+D:\sof\正式\UNICLog\UNICLog\UnicTest\obj\Debug\UnicTest.csproj.GenerateResource.Cache
+D:\sof\正式\UNICLog\UNICLog\UnicTest\bin\Debug\UnicTest.exe
+D:\sof\正式\UNICLog\UNICLog\UnicTest\bin\Debug\UnicTest.pdb
+D:\sof\正式\UNICLog\UNICLog\UnicTest\bin\Debug\UNICLog.dll
+D:\sof\正式\UNICLog\UNICLog\UnicTest\bin\Debug\UNICLog.pdb
+D:\sof\正式\UNICLog\UNICLog\UnicTest\obj\Debug\UnicTest.exe
+D:\sof\正式\UNICLog\UNICLog\UnicTest\obj\Debug\UnicTest.pdb

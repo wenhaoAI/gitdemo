@@ -1,0 +1,17 @@
+E:\Prodemo\Ledhm\LedManager\bin\Debug\LedManager.exe.config
+E:\Prodemo\Ledhm\LedManager\bin\Debug\LedManager.exe
+E:\Prodemo\Ledhm\LedManager\bin\Debug\LedManager.pdb
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.Form1.resources
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.Properties.Resources.resources
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.csproj.GenerateResource.Cache
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.exe
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.pdb
+E:\Prodemo\Ledhm\LedManager\bin\Debug\Dos.ORM.dll
+E:\Prodemo\Ledhm\LedManager\bin\Debug\Dos.ORM.MySql.dll
+E:\Prodemo\Ledhm\LedManager\bin\Debug\MySql.Data.dll
+E:\Prodemo\Ledhm\LedManager\bin\Debug\Dos.ORM.xml
+E:\Prodemo\Ledhm\LedManager\bin\Debug\Dos.ORM.MySql.xml
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.csprojResolveAssemblyReference.cache
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.exe.licenses
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.SzFrom.resources
+E:\Prodemo\Ledhm\LedManager\obj\Debug\LedManager.ProFrom.resources
